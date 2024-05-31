@@ -42,13 +42,14 @@ h1, h2 {
     cursor: pointer;
 }
   
-  .expenses-list {
+.expenses-list {
     margin: 20px;
 }
   
 table {
     width: 100%;
     border-collapse: collapse;
+    color: #fff;
 }
   
 th, td {
